@@ -1,6 +1,6 @@
 package stream
 
-import "collection/collectors"
+import "github.com/yifanes/collection/collectors"
 
 /*
 Map stream 流 类型转换方法

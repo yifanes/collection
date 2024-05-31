@@ -2,9 +2,9 @@
 package stream
 
 import (
-	"collection/collectors"
-	"collection/utils"
 	"fmt"
+	"github.com/yifanes/collection/collectors"
+	"github.com/yifanes/collection/utils"
 	"runtime"
 	"sort"
 	"sync"

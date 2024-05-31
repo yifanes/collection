@@ -1,9 +1,9 @@
 package stream
 
 import (
-	"collection/collectors"
 	"encoding/json"
 	"fmt"
+	"github.com/yifanes/collection/collectors"
 	"sort"
 	"strings"
 	"testing"

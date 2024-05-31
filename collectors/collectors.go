@@ -1,6 +1,6 @@
 package collectors
 
-import "collection/utils"
+import "github.com/yifanes/collection/utils"
 
 /*
 Number 抽象出常用的运算类型
