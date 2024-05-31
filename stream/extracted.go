@@ -1,6 +1,6 @@
 package stream
 
-import "github.com/todocoder/go-stream/collectors"
+import "collection/collectors"
 
 /*
 Map stream 流 类型转换方法

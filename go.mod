@@ -1,3 +1,3 @@
-module github.com/todocoder/go-stream
+module collection
 
-go 1.20
+go 1.22.3

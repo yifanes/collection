@@ -2,9 +2,9 @@
 package stream
 
 import (
+	"collection/collectors"
+	"collection/utils"
 	"fmt"
-	"github.com/todocoder/go-stream/collectors"
-	"github.com/todocoder/go-stream/utils"
 	"runtime"
 	"sort"
 	"sync"

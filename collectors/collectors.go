@@ -1,8 +1,6 @@
 package collectors
 
-import (
-	"github.com/todocoder/go-stream/utils"
-)
+import "collection/utils"
 
 /*
 Number 抽象出常用的运算类型

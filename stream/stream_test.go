@@ -1,9 +1,9 @@
 package stream
 
 import (
+	"collection/collectors"
 	"encoding/json"
 	"fmt"
-	"github.com/todocoder/go-stream/collectors"
 	"sort"
 	"strings"
 	"testing"
